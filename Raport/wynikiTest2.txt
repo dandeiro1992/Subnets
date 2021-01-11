@@ -1,0 +1,33 @@
+preparing data takes:	41.1745
+Performing bench for	1 nodes
+time 247
+Adding and deleting 100000 nodes:	0.0927815
+Performing bench for	62308 nodes
+time 4581
+Adding and deleting 100000 nodes:	0.108148
+Performing bench for	118677 nodes
+time 2101
+Adding and deleting 100000 nodes:	0.115498
+Performing bench for	172345 nodes
+time 2326
+Adding and deleting 100000 nodes:	0.122537
+Performing bench for	224772 nodes
+time 5348
+Adding and deleting 100000 nodes:	0.13627
+Performing bench for	276217 nodes
+time 8772
+Adding and deleting 100000 nodes:	0.149205
+Performing bench for	326945 nodes
+time 1736
+Adding and deleting 100000 nodes:	0.150655
+Performing bench for	376390 nodes
+time 2343
+Adding and deleting 100000 nodes:	0.16349
+Performing bench for	425583 nodes
+time 3350
+Adding and deleting 100000 nodes:	0.16653
+Performing bench for	474227 nodes
+time 6527
+Adding and deleting 100000 nodes:	0.169732
+Performing bench for	522214 nodes
+time 8484

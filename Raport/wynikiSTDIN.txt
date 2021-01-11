@@ -1,0 +1,70 @@
+Please type add/del/check/show/bench command.
+add 10.0.0.0/8
+Add OK
+
+Please type add/del/check/show/bench command.
+add 10.0.0.0/8
+podana siec juz istnieje
+Add Failure
+
+Please type add/del/check/show/bench command.
+add 10.0.0.0/24
+Add OK
+
+Please type add/del/check/show/bench command.
+add 10.0.1.99/24
+Add OK
+
+Please type add/del/check/show/bench command.
+add 10.0.0.d/24
+add Bad Syntax
+
+Please type add/del/check/show/bench command.
+add 10.0.0.3
+add Bad Syntax
+
+Please type add/del/check/show/bench command.
+check 10.255.255.255
+10.0.0.0/8Check Success
+
+Please type add/del/check/show/bench command.
+check 10.0.0.1
+10.0.0.0/24Check Success
+
+Please type add/del/check/show/bench command.
+del 10.0.0.0/8
+
+Please type add/del/check/show/bench command.
+del 192.168.0.0/32
+Del Failure
+
+Please type add/del/check/show/bench command.
+check 10.255.255.255
+Check Failure
+
+Please type add/del/check/show/bench command.
+check 10.0.0.0/24
+check Bad Syntax
+
+Please type add/del/check/show/bench command.
+dump
+netAddress:             00000000
+mask:                   00000000
+broadcastAddress:       ffffffff
+isValid:                0
+netAddress:             0a000000
+mask:                   ffffff00
+broadcastAddress:       0a0000ff
+isValid:                1
+netAddress:             0a000100
+mask:                   ffffff00
+broadcastAddress:       0a0001ff
+isValid:                1
+
+Please type add/del/check/show/bench command.
+bench 1000000 1.2.3.4 5.6.7.8 2.3.4.5 6.7.8.9
+time 73
+Success for 2 
+
+Please type add/del/check/show/bench command.
+^C

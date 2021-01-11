@@ -1,0 +1,24 @@
+time 25
+Success for 1 
+time 414
+Success for 825 
+time 186
+Success for 1588 
+time 177
+Success for 2323 
+time 170
+Success for 3082 
+time 201
+Success for 3786 
+time 151
+Success for 4488 
+time 241
+Success for 5199 
+time 331
+Success for 5889 
+time 197
+Success for 6584 
+time 735
+Success for 7271 
+28.59user 0.00system 0:28.59elapsed 99%CPU (0avgtext+0avgdata 4268maxresident)k
+0inputs+0outputs (0major+294minor)pagefaults 0swaps

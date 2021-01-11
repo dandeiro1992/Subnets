@@ -1,0 +1,3 @@
+Komenda:
+
+cat /home/damian/Pulpit/atende/SIECI/python/large-command-file-test | time ./main >main.log
